@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "132671475392",
+    "firebase_url": "https://gluko-10b44.firebaseio.com",
+    "project_id": "gluko-10b44",
+    "storage_bucket": "gluko-10b44.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132671475392:android:fa3759c8051bfc2b",
+        "android_client_info": {
+          "package_name": "pl.skyman.gluko"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132671475392-k2tem76eboum06frmc5lf4mnp6cpaqat.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pl.skyman.gluko",
+            "certificate_hash": "b5e04723d37f288d58dc9abdcc233251da6c63ae"
+          }
+        },
+        {
+          "client_id": "132671475392-kdq8far18bb9r0nttchtchnm5a58kd20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_FJH_Q9OsKaqZ245YEJ6Yzd9plRqERw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132671475392-kdq8far18bb9r0nttchtchnm5a58kd20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

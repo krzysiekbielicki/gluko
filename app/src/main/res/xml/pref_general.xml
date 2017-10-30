@@ -1,0 +1,11 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <MultiSelectListPreference
+        android:entries="@array/pref_meal_time_title"
+        android:entryValues="@array/pref_meal_time_values"
+        android:key="meal_time"
+        android:negativeButtonText="@null"
+        android:positiveButtonText="OK"
+        android:title="Godziny posiłków"/>
+
+</PreferenceScreen>
